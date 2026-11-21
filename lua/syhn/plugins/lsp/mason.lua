@@ -31,6 +31,7 @@ return {
 				"lua_ls",
 				"clangd",
 				"java_language_server",
+				"rust_analyzer",
 			},
 		})
 	end,

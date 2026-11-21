@@ -46,6 +46,7 @@ return {
 		vim.lsp.enable({ "lua_ls" })
 		vim.lsp.enable({ "ts_ls" })
 		vim.lsp.enable({ "java_language_server" })
+		vim.lsp.enable({ "rust_analyzer" })
 
 		vim.lsp.config("gdscript", {
 			name = "godot",

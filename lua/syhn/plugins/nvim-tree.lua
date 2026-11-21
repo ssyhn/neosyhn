@@ -24,6 +24,7 @@ return {
 			},
 			renderer = {
 				highlight_opened_files = "all",
+				indent_width = 2,
 			},
 			git = { enable = false },
 			tab = {

@@ -21,6 +21,7 @@ return {
 				"java",
 				"c_sharp",
 				"css",
+				"rust",
 			},
 			auto_install = true,
 			install_dir = vim.fn.stdpath("data") .. "/site",
